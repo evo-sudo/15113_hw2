@@ -1,0 +1,13 @@
+I first tried to just focus on getting some game mechanics related to the game crossy road implementing the wikipedia 
+prompt strategry in class. I then tried to fix problems that I saw each time after a prompt.
+I used ChatGPT 5.2
+Prompts that were beneficial: 1. Build me a Crossy Road–style game in Python. Use this Wikipedia page for reference on the basic gameplay loop and mechanics: [https://en.wikipedia.org/wiki/Crossy_Road]
+2.when we press the "up" arrow it goes down so could we switch the up and down directions, Also when I press up and down I move 2 spaces when I should be moving one, and can you make the character look like a chicken?
+3.some of the bushes made it impossible for me to go forward, the screen should also make it so the screen is constantly moving forward and if the character eventually leaves the field of view they lose, some of the logs 
+and cars also go through each other but they should be the same speed but different sizes but they should interact with eachother to the point they cannot pass through each other. Another aspect of the game are trains which 
+are around the same frequency as rivers and there is a small light showing when the train will pass as a warning
+4. when the character is on the log they move with the log, take for example an object in the car, as long as the object is in the car while it's moving it will stay in the car but at anypoint it moves off the car, the object 
+will no longer be in the car. 
+5.the bush varaition in the beginning at some points is impossible to play the game as the character is trapped
+6. could you add a slight animation when hopping onto the logs showing the weight of the character on them as they initially hop on As well as slow down everything as well as lower the frequency of cars and trains until
+ maybe a certain score and then speed up. 
